@@ -1,0 +1,16 @@
+/home/dmitry/Documents/oop_lab1/bin/Debug/net5.0/oop_lab1
+/home/dmitry/Documents/oop_lab1/bin/Debug/net5.0/oop_lab1.deps.json
+/home/dmitry/Documents/oop_lab1/bin/Debug/net5.0/oop_lab1.runtimeconfig.json
+/home/dmitry/Documents/oop_lab1/bin/Debug/net5.0/oop_lab1.runtimeconfig.dev.json
+/home/dmitry/Documents/oop_lab1/bin/Debug/net5.0/oop_lab1.dll
+/home/dmitry/Documents/oop_lab1/bin/Debug/net5.0/ref/oop_lab1.dll
+/home/dmitry/Documents/oop_lab1/bin/Debug/net5.0/oop_lab1.pdb
+/home/dmitry/Documents/oop_lab1/obj/Debug/net5.0/oop_lab1.csprojAssemblyReference.cache
+/home/dmitry/Documents/oop_lab1/obj/Debug/net5.0/oop_lab1.GeneratedMSBuildEditorConfig.editorconfig
+/home/dmitry/Documents/oop_lab1/obj/Debug/net5.0/oop_lab1.AssemblyInfoInputs.cache
+/home/dmitry/Documents/oop_lab1/obj/Debug/net5.0/oop_lab1.AssemblyInfo.cs
+/home/dmitry/Documents/oop_lab1/obj/Debug/net5.0/oop_lab1.csproj.CoreCompileInputs.cache
+/home/dmitry/Documents/oop_lab1/obj/Debug/net5.0/oop_lab1.dll
+/home/dmitry/Documents/oop_lab1/obj/Debug/net5.0/ref/oop_lab1.dll
+/home/dmitry/Documents/oop_lab1/obj/Debug/net5.0/oop_lab1.pdb
+/home/dmitry/Documents/oop_lab1/obj/Debug/net5.0/oop_lab1.genruntimeconfig.cache
